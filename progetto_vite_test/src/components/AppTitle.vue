@@ -7,11 +7,10 @@
     </header>
 </template>
 
-<style>
+<style scoped>
 header{
     height: 100px;
     background-color: red;
-    text-align: center;
 }
 
 </style>

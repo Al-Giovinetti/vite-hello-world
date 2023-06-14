@@ -11,7 +11,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
 .container{
     background-color: aqua;
     width: 100%;
